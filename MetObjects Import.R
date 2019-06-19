@@ -6,3 +6,4 @@ setwd(workingDir)
 MetObjects <- read.csv(file = WorkingFile)
 #List Column names in cosole
 colnames(MetObjects)
+View(MetObjects)
